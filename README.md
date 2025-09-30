@@ -1,7 +1,8 @@
 # 💳 Credit Card Default Prediction
 
 ## 📖 Project Overview
-This project predicts whether a customer will default on their credit card payment **next month** using the **Default of Credit Card Clients Dataset** (UCI Machine Learning Repository).  The goal is to explore the dataset, perform preprocessing and exploratory data analysis (EDA), and build machine learning models to classify default vs non-default clients.  
+This project predicts whether a customer will default on their credit card payment **next month** using the **Default of Credit Card Clients Dataset** (UCI Machine Learning Repository).  
+The goal is to explore the dataset, perform preprocessing and exploratory data analysis (EDA), and build machine learning models to classify default vs non-default clients.  
 
 ---
 
@@ -91,7 +92,6 @@ Visualizations:
 
 ---
 
-
 ## 📌 Conclusion
 - Payment history and bill amounts are strong predictors of default.
 - Ensemble models (Random Forest, Gradient Boosting) performed best.
@@ -107,9 +107,7 @@ Visualizations:
 ---
 
 ## ✨ Author
-👤 **Shiba sherin**  
+👤 **Shiba sherin M**  
 📍 Kochi, Kerala, India  
 📧 Contact: shibasherin12@gmail.com  
 
-
-## 📂 Project Structure
